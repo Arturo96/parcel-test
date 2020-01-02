@@ -1,0 +1,25 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel -p 3000 src/index.html",
+    "pro": "parcel -p 3000 build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturo96/parcel-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturo96/parcel-test/issues"
+  },
+  "homepage": "https://github.com/Arturo96/parcel-test#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.24.0"
+  }
+}
